@@ -1,1 +1,1 @@
-# SimplePlaneCup1
+## 开源自制飞机杯
